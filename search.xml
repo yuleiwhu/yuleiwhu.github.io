@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>第三期</title>
+      <link href="/2018/11/14/%E7%AC%AC%E4%B8%89%E6%9C%9F/"/>
+      <url>/2018/11/14/%E7%AC%AC%E4%B8%89%E6%9C%9F/</url>
+      
+        <content type="html"><![CDATA[<p>的</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>第二期《学霸来讲课》</title>
+      <link href="/2018/11/14/post-name/"/>
+      <url>/2018/11/14/post-name/</url>
+      
+        <content type="html"><![CDATA[<p>将重点关注C++程序的学习问题：</p><ol><li>基本C++语言设计流程</li><li>基于OpenCV的应用举例</li><li>答疑</li></ol><p>届时将联系实验室项目经验较为丰富的研究生学长给大家进行辅导。</p><p><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt=""></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    <entry>
+      <title>《学霸来讲课》第一期</title>
+      <link href="/2018/11/14/first/"/>
+      <url>/2018/11/14/first/</url>
+      
+        <content type="html"><![CDATA[<p>第一期学霸来讲课，由老学霸高导给大家分享了学习经验，介绍了很多优秀的学霸学长和学姐！相信大家也感触良多！<br>&lt;学霸来讲课&gt;第二期，将关注C语言编程应用，请大家把想交流的内容提交一下，后续我们有针对性让学长给大家介绍学习经验！</p><p><img src="IMG_20181106_184425.jpg" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学霸来讲课 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学霸来讲课 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/11/13/hello-world/"/>
+      <url>/2018/11/13/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+  
+  
+</search>
